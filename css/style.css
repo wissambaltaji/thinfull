@@ -1,0 +1,78 @@
+.head-H,
+.head-P,
+.content-footer {
+    text-align: center;
+}
+
+.master {
+    padding: 10em 0;
+    background: url(https://elevatedcommerce.files.wordpress.com/2015/03/2zapvjjvva1yhjwas188eynqtk_ewgum5cr-1wmbigm.jpg) no-repeat center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid 1em #FFCF33;
+}
+
+.head-P {
+    margin-bottom: 0.1em;
+  
+    font-size: 2em;
+	
+}
+
+.head-H {
+    margin-top: -0.2em;
+
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+.sec-1,
+.sec-2,
+.sec-3 {
+	
+	max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 2em;
+	
+} 
+a{
+	color: green;
+	text-decoration: none;
+}
+
+.sec-3 > h2 { 
+
+color: yellow;
+	}
+body {
+    /* Typography Declarations */
+    color: #222222;
+    font-size: 1em;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+.h1{
+	
+	
+	font-family: 'Slabo 27px', serif;
+	
+}
+
+.h2{
+	
+	
+	font-family: 'Slabo 27px', serif;
+	
+}
+
+.content-footer > p {
+    color: white;
+}
+.content-footer {
+
+  background-color: #CA6C00;
+}
